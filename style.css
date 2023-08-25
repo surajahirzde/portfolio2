@@ -789,16 +789,9 @@ align-items: center;
 }
 
 .leftimg{
-    width:500px;
+     width:400px;
     height:400px;
-/* border: 1px solid #000; */
-/* display: flex;
-justify-content: center;
-
-position: relative;
-align-items: center; */
-
-
+    object-fit: cover;
 }
 .leftimg .men{
 
